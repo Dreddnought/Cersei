@@ -35,4 +35,29 @@ public class Cersei
 		// A
 		// B
 	}
+	public void Func6()
+	{
+		// C
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// A
+		// B
+	}
 }
