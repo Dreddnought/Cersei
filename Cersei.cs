@@ -7,4 +7,5 @@ public class Cersei
 	{
 	}
 	public void Func1() { }
+	public void Func2() { }
 }
